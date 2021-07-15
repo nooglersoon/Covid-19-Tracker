@@ -1,4 +1,6 @@
-# iOSApp-Covid-Tracker
+# iOSApp Covid Tracker
+
+Portfolio project to explore the creation of ios applications using SwiftUI. I took the COVID-19 theme to help create a covid dashboard in West Java, Indonesia with the native iOS version
 
 | App Preview  |
 | :---: |
