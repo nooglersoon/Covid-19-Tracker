@@ -21,7 +21,7 @@ Covid tracker is an application that can help users find out the statistics of c
 
 ## External Resources
 
--
+...
 
 ## License
 
