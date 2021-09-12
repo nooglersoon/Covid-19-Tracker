@@ -5,16 +5,13 @@ Covid tracker is an application that can help users find out the statistics of c
 
 ## Previews
 
-| Tables        | Are           | Cool  |
-| ------------- |:-------------:| -----:|
-| col 3 is      | right-aligned | $1600 |
-| col 2 is      | centered      |   $12 |
-| zebra stripes | are neat      |    $1 |
+| Home        | Map View           |
+| :-------------: |:-------------:|
+| <img src="https://user-images.githubusercontent.com/63455298/118982084-44cd9c00-b9a5-11eb-830a-2c7c7927f8c8.png" width= "30%"/>    | <img src="https://user-images.githubusercontent.com/63455298/118982104-4a2ae680-b9a5-11eb-9091-4e45b2caeca5.png" width= "30%"/> |
 
-| App Preview  |
-| :---: |
-| <img src="https://user-images.githubusercontent.com/63455298/118982084-44cd9c00-b9a5-11eb-830a-2c7c7927f8c8.png" width= "30%"/> <img src="https://user-images.githubusercontent.com/63455298/118982104-4a2ae680-b9a5-11eb-9091-4e45b2caeca5.png" width= "30%"/> |
-<img src="https://user-images.githubusercontent.com/63455298/118982108-4b5c1380-b9a5-11eb-91b7-26598838cd50.png" width= "30%"/> <img src="https://user-images.githubusercontent.com/63455298/118982118-4bf4aa00-b9a5-11eb-8910-72793ebbfc3a.png" width= "30%"/>  |
+| Card View        | Home with Flipped Card           |
+| :-------------: |:-------------:|
+| <img src="https://user-images.githubusercontent.com/63455298/118982108-4b5c1380-b9a5-11eb-91b7-26598838cd50.png" width= "30%"/>    | <img src="https://user-images.githubusercontent.com/63455298/118982118-4bf4aa00-b9a5-11eb-8910-72793ebbfc3a.png" width= "30%"/> |
 
 ## Frameworks / Technology
 
@@ -22,4 +19,10 @@ Covid tracker is an application that can help users find out the statistics of c
 2. SwiftUI
 3. MapKit
 
+## External Resources
 
+-
+
+## License
+
+...
